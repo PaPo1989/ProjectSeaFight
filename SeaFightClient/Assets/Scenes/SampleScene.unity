@@ -453,7 +453,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -34.789978, y: -25.059998}
+  m_AnchoredPosition: {x: -34.79004, y: -25.059937}
   m_SizeDelta: {x: 69.604614, y: 50.08789}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &83754468
@@ -913,7 +913,7 @@ MonoBehaviour:
   driveModeDistance: 5
   driveModeRotationSpeed: 2
   driveModeZoomSpeed: 4
-  driveModeYRotation: 45
+  driveModeYRotation: 60
   mapModeMoveSpeed: 5
   mapModeZoomSpeed: 5
   mapModeRotationSpeed: 2
@@ -961,7 +961,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -13.810425, y: 3.7664795}
+  m_AnchoredPosition: {x: -13.810547, y: 3.7664795}
   m_SizeDelta: {x: -787.9843, y: -393.9622}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &366660880
