@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 949b744635ef0d944aca25cd58c09b1e, type: 3}
+  m_Name: CannonLevel1
+  m_EditorClassIdentifier: 
+  id: 0
+  name: Kanone Level 1
+  damage: 50
+  range: 4
+  reloadTime: 3
+  hitchance: 80
+  critchance: 15
